@@ -1,0 +1,8 @@
+[package]
+name = "timegone"
+version = "0.1.0"
+authors = ["Nick Voloshyn <akavolkol@gmail.com>"]
+
+[dependencies]
+notify-rust = "3.4.2"
+rand = "0.4.2"
